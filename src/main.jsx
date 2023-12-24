@@ -45,6 +45,7 @@ const pizzaData = [
     price: 18,
     photoName: "pizzas/prosciutto.jpg",
     soldOut: false,
+
     
   },
 ];
